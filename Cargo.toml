@@ -1,0 +1,8 @@
+[package]
+name = "vlq-parser"
+version = "0.9.0"
+authors = ["Umut Karakoc <umut@sent.com>"]
+description = "VLQ encoded sourcemap decoder"
+documentation = "https://docs.rs/vlq-parser/"
+
+[dependencies]
