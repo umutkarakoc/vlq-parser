@@ -5,4 +5,5 @@ authors = ["Umut Karakoc <umut@sent.com>"]
 description = "VLQ encoded sourcemap decoder"
 documentation = "https://docs.rs/vlq-parser/"
 edition = "2021"
+license-file = "LICENSE-MIT"
 [dependencies]
